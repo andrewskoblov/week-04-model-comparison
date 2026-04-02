@@ -11,6 +11,6 @@ Tested 4 AI models on 5 fraud investigation text samples to evaluate their suita
 
 ## Finding
 
-Recommended **Groq Llama 3.1 8B** for the Case Management & Dashboard component because it produces structured severity labels (CRITICAL / HIGH / INFORMATIONAL) with a plain-English explanation that can be surfaced directly in the analyst alert queue — something no other tested model provides out of the box.
+Recommended **Groq Llama 3.1 8B** for the Case Management & Dashboard component because it produces structured severity labels (CRITICAL / HIGH / INFORMATIONAL) with a plain-English explanation that can be surfaced directly in the analyst alert queue - something no other tested model provides out of the box.
 
 See `report.md` for full analysis and `results/comparison-table.csv` for raw model outputs.
